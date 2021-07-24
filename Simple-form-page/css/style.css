@@ -1,0 +1,52 @@
+#title, #description{
+    text-align:center;
+    color: white;
+  }
+  body{
+    background-image: url("https://images.pexels.com/photos/326311/pexels-photo-326311.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    
+    background-attachment: fixed;
+    height:100%;
+    color:white;
+    font-family: 'Roboto Mono', monospace;
+  }
+  
+  section{
+    background-color: rgba(0,0,0,.6);
+    max-width: 65%;
+    margin: auto;
+    border-radius: 5px;
+    padding: 20px;
+  }
+  
+  #name, #number, #email{
+    width: 90%;
+    margin: 10px;
+    padding:10px;
+    } 
+  select{
+    width: 93%;
+    margin: 10px;
+    padding:10px;
+  }
+  textarea{
+      max-width:75%;
+  }
+  
+input[type=submit] {
+      width:75%;
+      margin: auto;
+      padding:10px; 
+      background:#32cd32; 
+      border:0 none;
+      cursor:pointer;
+      border-radius: 5px; 
+  }
+  input[type=submit]:hover{
+    background: #4ee44e;
+  }
+  
+  
+  
+  
+  
