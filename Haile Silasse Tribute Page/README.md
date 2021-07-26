@@ -1,0 +1,1 @@
+This is a simple tribute page for Haile Silasse. I did it as part of my freeCodeCamp assignment. Here is a preview https://ababuu.github.io/small-web-projects/Haile%20Silasse%20Tribute%20Page/index.html
